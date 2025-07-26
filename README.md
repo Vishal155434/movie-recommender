@@ -6,8 +6,7 @@ A content-based movie recommender system using TF-IDF vectorization and cosine s
 
 ## 🚀 Demo
 
-*Live App: *[Add your Streamlit Cloud link here]  
-*GitHub Repo: *[Your repo URL]
+*GitHub Repo: https://github.com/Vishal155434/movie-recommender
 
 ---
 
